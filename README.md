@@ -5,11 +5,14 @@ this repository contains the Back-End part of a simple To Do List web applicatio
 
 ## Installation
 - install pipenv ``` pip install pipenv```.
+- fork and clone the repository.
+- cd to the dirctory ```cd ToDoBackEnd/ ```.
 - start the shell ``` pipenv shell ```.
-- - fork and clone the repository.
 -  install the requirements from requirements.txt
  ``` pip install -r requirements.txt```.
+- Apply migrations  ``` python manage.py migrate ``` 
 - start the server using ``` python manage.py runserver```
+
 - you are DONE with the back-end api you can check the [front-end](https://github.com/HatoonMo/TodoFrontEnd "ToDoFrontEnd") part 
 ## ScreenShot
 - the api root route``` http://localhost:8000/api/ ```
