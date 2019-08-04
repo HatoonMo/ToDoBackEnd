@@ -20,3 +20,8 @@ this repository contains the Back-End part of a simple To Do List web applicatio
 
 - individual task route ```http://localhost:8000/api/todos/task_id```
  ![individualTask](https://user-images.githubusercontent.com/19895545/62418410-f08ee600-b670-11e9-9431-39cfa9580cda.PNG)
+ 
+ ### Helpful Resources
+ - https://scotch.io/tutorials/build-a-to-do-application-using-django-and-react#toc-setting-up-the-backend
+ - https://docs.djangoproject.com/en/2.2/
+ 
